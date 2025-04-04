@@ -4,7 +4,7 @@ import { createLoggerWithConfig } from './utils/logger.js';
 
 // Versão e nome do servidor
 const SERVER_NAME = 'g2n-mcp-gcal-sse';
-const SERVER_VERSION = '1.1.0';
+const SERVER_VERSION = '1.2.0';
 
 // Função principal
 async function main() {

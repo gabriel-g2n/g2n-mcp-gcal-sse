@@ -23,6 +23,15 @@ The server provides the following MCP tools for Google Calendar management:
 - `delete-event`: Delete a calendar event
 - `list-colors`: List available colors for events and calendars
 
+### What's New in v1.2.0 (In Development)
+- Advanced error handling with better diagnostic information
+- Performance optimization for large calendars
+- Enhanced security features
+- Better connection stability
+- Additional filtering options for events
+- Improved UI for authentication flow
+- Support for additional Google Calendar features
+
 ### What's New in v1.1.0
 - Comprehensive logging system with configurable log levels
 - Request/response logging middleware for better monitoring
