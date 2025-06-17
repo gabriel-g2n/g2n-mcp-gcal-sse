@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gabriel-g2n-g2n-mcp-gcal-sse-badge.png)](https://mseep.ai/app/gabriel-g2n-g2n-mcp-gcal-sse)
+
 # G2N MCP Google Calendar SSE Server
 
 🌎 This README is available in multiple languages:
